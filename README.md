@@ -2,6 +2,8 @@
 
 Fun and friendly interactive Discord bot with a wide range of functions, including a custom dictionary feature.
 
+![image](https://github.com/monambike/kwijisho-discord-bot-legacy/assets/35270174/92857e80-9cbc-4422-b96f-b2d3d94a121e)
+
 ## How to Edit the Bot
 
 #### Notice: The following explanation will contain instructions on how to create a bot. It will simply provide information on what is needed to fetch and edit my bot.
