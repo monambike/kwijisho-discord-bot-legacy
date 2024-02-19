@@ -1,4 +1,4 @@
-Please, check the new version of this project written with C# [here!](https://github.com/monambike/kwijisho-discord-bot).
+Please, check the new version of this project written with C# [here!](https://github.com/monambike/kwijisho-discord-bot)
 
 # KWiJisho (Legacy)
 
