@@ -1,10 +1,10 @@
-# KWiJisho
+Please, check the new version of this project written with C# [here!](https://github.com/monambike/kwijisho-discord-bot).
+
+# KWiJisho (Legacy)
 
 Fun and friendly interactive Discord bot with a wide range of functions, including a custom dictionary feature.
 
 ![image](https://github.com/monambike/kwijisho-discord-bot-legacy/assets/35270174/92857e80-9cbc-4422-b96f-b2d3d94a121e)
-
-You can check the new version of this project written with C# [here](https://github.com/monambike/kwijisho-discord-bot).
 
 ## How to Edit the Bot
 
